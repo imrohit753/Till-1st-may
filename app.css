@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    height: 40px;
+    width: 200px;
+    /* max-width: 100%;
+    max-height: 100%;
+    min-width: 100%;
+    min-height: 100%; */
+}
+
+
+
+
+
+
+/* .navbar{
+    height: 80px;
+    background-color: white;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.mainlogo{
+    cursor: pointer;
+    position: absolute;
+    padding-top: 20px;
+    padding-left: 40px;
+    box-sizing: border-box;
+    display: block;
+    border: none;
+}
+.links{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 20px;
+    letter-spacing: 1px;
+    color: black;
+}
+.links > a {
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    outline-color: none;
+}
+.links > select{
+    padding-right: -20px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+
+    
+}
+.navbar > a:hover{
+    text-decoration: none;
+    color: #8dc63f;
+}
+a:focus{
+    color: #8dc63f;
+}
+a:active{
+    color: #8dc63f;
+}
+select:hover{
+    color: #8dc63f;
+}
+.main-image{
+    width: 100%;
+} */
